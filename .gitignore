@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+faiss_db/
+chroma_db/
+ops/queries.db
+venv/
+venv1/
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.pt
+*.bin

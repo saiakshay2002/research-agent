@@ -1,0 +1,16 @@
+langgraph==0.2.50
+langchain==0.3.7
+langchain-groq==0.2.1
+langchain-community==0.3.7
+langsmith==0.1.147
+tavily-python==0.5.0
+faiss-cpu==1.9.0
+groq==0.11.0
+streamlit==1.40.2
+prometheus-client==0.21.0
+plotly==5.24.1
+pandas==2.2.3
+python-dotenv==1.0.1
+pytest==8.3.3
+pytest-asyncio==0.24.0
+sentence-transformers==3.3.1
